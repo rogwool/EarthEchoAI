@@ -42,3 +42,11 @@ Feel free to fork, contribute, or share feedback. You can reach out via the Issu
 ## 🧪 Demo Notebook
 👉 [Run the Demo](demo.ipynb) to explore Earth-like signal analysis and SETI comparisons.
 
+## 🧪 Demo Notebook
+👉 [Run the Demo](demo.ipynb) to explore Earth-like signal analysis and SETI comparisons.
+
+To run you need to Set Up Your Earthdata Login
+Visit: https://urs.earthdata.nasa.gov
+Click “Register for a NASA Earthdata Account”
+Fill out your info — it’s quick and doesn’t require institutional credentials
+Once registered, you’ll use that username/password when prompted by earthaccess.login()
