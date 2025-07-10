@@ -38,3 +38,7 @@ Feel free to fork, contribute, or share feedback. You can reach out via the Issu
 ---
 
 **Earth Echo AI – Listening for reflections of ourselves among the stars.**
+
+## 🧪 Demo Notebook
+👉 [Run the Demo](demo.ipynb) to explore Earth-like signal analysis and SETI comparisons.
+
